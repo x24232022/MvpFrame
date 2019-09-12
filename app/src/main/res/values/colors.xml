@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--Toolbar Back 颜色-->
+    <color name="color_toolbar_appbar_bg">#FE9B00</color>
+    <color name="color_toolbar_text">#FFFFFF</color>
+    <color name="color_main_toolbar_appbar_bg">#FE9B00</color>
+
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+</resources>
